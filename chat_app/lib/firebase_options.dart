@@ -57,22 +57,24 @@ class DefaultFirebaseOptions {
     projectId: 'chatapp-fc925',
     storageBucket: 'chatapp-fc925.firebasestorage.app',
   );
-
   static const FirebaseOptions ios = FirebaseOptions(
     apiKey: 'AIzaSyD_xeBnmwJKZf2lCEPMY7P80i0B-fS8z4s',
     appId: '1:950981040492:ios:590369e21081c4b87c7b49',
     messagingSenderId: '950981040492',
     projectId: 'chatapp-fc925',
     storageBucket: 'chatapp-fc925.firebasestorage.app',
+    androidClientId: '950981040492-55olfdniragai85m8vfptbqeh273d8m7.apps.googleusercontent.com',
+    iosClientId: '950981040492-4df1qp4m9cmcfu230vtj8nsonsb51l3s.apps.googleusercontent.com',
     iosBundleId: 'com.example.chatApp',
   );
-
   static const FirebaseOptions macos = FirebaseOptions(
     apiKey: 'AIzaSyD_xeBnmwJKZf2lCEPMY7P80i0B-fS8z4s',
     appId: '1:950981040492:ios:590369e21081c4b87c7b49',
     messagingSenderId: '950981040492',
     projectId: 'chatapp-fc925',
     storageBucket: 'chatapp-fc925.firebasestorage.app',
+    androidClientId: '950981040492-55olfdniragai85m8vfptbqeh273d8m7.apps.googleusercontent.com',
+    iosClientId: '950981040492-4df1qp4m9cmcfu230vtj8nsonsb51l3s.apps.googleusercontent.com',
     iosBundleId: 'com.example.chatApp',
   );
 
